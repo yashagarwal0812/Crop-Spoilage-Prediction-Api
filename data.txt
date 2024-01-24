@@ -1,0 +1,48 @@
+# temperature
+wheat >20
+rice >30
+corn >30
+
+-> Adjust Ventilation:
+If possible, increase ventilation to promote air circulation and help dissipate heat. Adequate ventilation is essential for preventing the formation of hotspots within the storage.
+
+-> Activate Cooling Systems:
+Activate or enhance cooling systems within the facility to lower the temperature. This could involve adjusting thermostat settings or increasing the capacity of cooling equipment.
+
+
+
+# moisture
+wheat >16
+rice >18
+corn >18
+
+-> Enhance Ventilation:
+Improve ventilation to enhance air circulation within the facility. Proper airflow helps in reducing humidity levels and preventing the development of moisture pockets
+
+-> Dehumidification Systems:
+Implement or optimize dehumidification systems to actively reduce moisture levels in the air. Ensure that the systems are properly functioning and can handle the storage capacity.
+
+
+
+# oxygen
+wheat >4
+rice >5
+corn >5
+
+-> Ventilation Improvement:
+Enhance ventilation within the facility to promote air exchange and reduce oxygen levels. Proper airflow is essential for preventing the accumulation of oxygen and minimizing the risk of combustion.
+
+-> Inert Gas Injection:
+Consider the injection of inert gases, such as nitrogen or carbon dioxide, into the storage environment. Inert gases displace oxygen and create an atmosphere less conducive to combustion.
+
+
+
+# pesticide
+if 0
+
+-> Implement Integrated Pest Management (IPM):
+Adopt an integrated approach that combines preventive measures, monitoring, and judicious use of non-chemical controls to manage pests effectively without relying solely on pesticides.
+
+-> Rotate Stored Wheat:
+Implement a regular rotation schedule for stored wheat. Older grains are more susceptible to pests, and rotating stocks helps prevent prolonged storage periods.
+
