@@ -46,3 +46,7 @@ Adopt an integrated approach that combines preventive measures, monitoring, and 
 -> Rotate Stored Wheat:
 Implement a regular rotation schedule for stored wheat. Older grains are more susceptible to pests, and rotating stocks helps prevent prolonged storage periods.
 
+
+
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
