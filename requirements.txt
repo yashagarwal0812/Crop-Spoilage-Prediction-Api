@@ -1,5 +1,5 @@
 ﻿fastapi==0.108.0
-tensorflow==2.16.0
+tensorflow==2.16.1
 numpy==1.23.5
 uvicorn==0.25.0
 python-jose==3.3.0
